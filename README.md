@@ -26,9 +26,10 @@ $ sudo ldconfig
 $ git clone https://github.com/LykBran/rock-paper-scissors.git
 ```
 5. Run the main program.  
+tips: Replace A with your camera device  
 ```
 $ cd rock-paper-scissors
-$ python3 game.py /dev/video0(replace this with your camera device)
+$ python3 game.py A
 ```
 Now enjoy playing!  
 
