@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors  
-This is a simple game called 'Rock, Paper and Scissors'. The model pre-trained can recognize 3 gestures : rock, paper and scissors. Rock beats scissors, scissors beat paper, and paper beats rock. You just need to run the game, and put your hand in front of your camera with your chosen gesture, then compete with computer's choice. You can exit by pressing [Ctrl + C] at any time.  
+This is a simple game called 'Rock, Paper and Scissors'. The model pre-trained can recognize 3 gestures : rock, paper and scissors. Rock beats scissors, scissors beat paper, and paper beats rock. You just need to run the game, and show your chosen gesture to the camera, then compete with computer's choice. You can exit by pressing [Ctrl + C] at any time.  
 ## The Algorithm  
 The re-trained resnet18 model was trained on Jetson Nano with a dataset of rock-paper-scissors gestures. The program would automatically load the model.  
 ## Running This Project  
