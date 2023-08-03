@@ -30,4 +30,8 @@ $ git clone https://github.com/LykBran/rock-paper-scissors.git
 $ cd rock-paper-scissors
 $ python3 game.py /dev/video0(replace this with your camera device)
 ```
-Now enjoy playing!
+Now enjoy playing!  
+
+---
+
+Dataset URL : https://www.kaggle.com/datasets/sanikamal/rock-paper-scissors-dataset  
