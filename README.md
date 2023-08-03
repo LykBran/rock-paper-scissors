@@ -35,5 +35,5 @@ Now enjoy playing!
 
 ---
 
-Dataset URL : https://www.kaggle.com/datasets/sanikamal/rock-paper-scissors-dataset
+Dataset URL : https://www.kaggle.com/datasets/sanikamal/rock-paper-scissors-dataset  
 My Explanation Video URL : https://youtu.be/DkoQVJZgdtA  
